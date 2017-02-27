@@ -1,0 +1,8 @@
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\afa\Documents\Visual Studio 2015\Projects\FirmaProject\trainingproject\DataContext\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,11 @@
+DevExpress.Xpf.LayoutControl.LayoutControl, DevExpress.Xpf.LayoutControl.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Grid.GridControl, DevExpress.Xpf.Grid.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Scheduler.SchedulerControl, DevExpress.Xpf.Scheduler.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Editors.DateNavigator.DateNavigator, DevExpress.Xpf.Core.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.WindowsUI.NavigationFrame, DevExpress.Xpf.Controls.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Docking.DockLayoutManager, DevExpress.Xpf.Docking.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Navigation.OfficeNavigationBar, DevExpress.Xpf.Controls.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Gauges.DigitalGaugeControl, DevExpress.Xpf.Gauges.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Charts.RangeControlClient.DateTimeChartRangeControlClient, DevExpress.Xpf.Charts.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Gauges.CircularGaugeControl, DevExpress.Xpf.Gauges.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpf.Map.MapControl, DevExpress.Xpf.Map.v15.2, Version=15.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
