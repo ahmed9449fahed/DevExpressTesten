@@ -10,7 +10,7 @@
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
         <dxlc:LayoutControl HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
-            <wpf:Map   
+            <!--<wpf:Map   
                      Name="Map2"
                      CredentialsProvider="Ag7eygjyIc9cUjB_JbNGSRx5GbPhFLjkhIXyXXwrthp-hsB4TdZtQ2bFQWoZIKBG"
                      Center="53.542461,9.889865"
@@ -38,8 +38,8 @@
                         <ContentControl>SvensShip</ContentControl>
                     </wpf:MapLayer.ToolTip>
                 </wpf:MapLayer>
-            </wpf:Map>
-            <!--<dxm:MapControl
+            </wpf:Map>-->
+            <dxm:MapControl
                
                             CenterPoint="53.542461,9.889865"
                             ZoomLevel="14"
@@ -50,7 +50,7 @@
                 <dxm:ImageTilesLayer>
                     <dxm:BingMapDataProvider/>
                 </dxm:ImageTilesLayer>
-            </dxm:MapControl>-->
+            </dxm:MapControl>
         </dxlc:LayoutControl>
     </Grid>
 </UserControl>
