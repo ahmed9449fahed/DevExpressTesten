@@ -332,7 +332,6 @@ C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Xpf.S
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Xpf.Themes.DXStyle.v15.2.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.XtraEditors.v15.2.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
-C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Web.v15.2.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.ExpressApp.v15.2.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.ExpressApp.Web.v15.2.dll
@@ -385,7 +384,6 @@ C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Xpf.R
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Xpf.Scheduler.v15.2.xml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.XtraEditors.v15.2.xml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
-C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Web.v15.2.xml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.Xpf.DocumentViewer.v15.2.Core.xml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
@@ -589,13 +587,11 @@ C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\de\DevExpress.Xp
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
-C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Map.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Time.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\SchedulerControl.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Navigatorbar.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\GridRowUndColumnsDefinationTest.g.cs
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\MainWindow.g.cs
-C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Map.g.cs
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Time.g.cs
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\SchedulerControl.g.cs
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Navigatorbar.g.cs
@@ -609,3 +605,4 @@ C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.g.re
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.Properties.Resources.resources
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.exe.licenses
+C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache

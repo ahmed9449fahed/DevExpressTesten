@@ -51,7 +51,7 @@
                         <views:Time/>
                     </dxdo:LayoutPanel>
                     <dxdo:LayoutPanel Caption="Panel4">
-                        <views:Map/>
+                        
 
                     </dxdo:LayoutPanel>
                 </dxdo:LayoutGroup>
