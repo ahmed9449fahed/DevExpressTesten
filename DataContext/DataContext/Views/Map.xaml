@@ -39,7 +39,7 @@
                     </wpf:MapLayer.ToolTip>
                 </wpf:MapLayer>
             </wpf:Map>-->
-            <dxm:MapControl
+            <!--<dxm:MapControl
                
                             CenterPoint="53.542461,9.889865"
                             ZoomLevel="14"
@@ -50,7 +50,7 @@
                 <dxm:ImageTilesLayer>
                     <dxm:BingMapDataProvider/>
                 </dxm:ImageTilesLayer>
-            </dxm:MapControl>
+            </dxm:MapControl>-->
         </dxlc:LayoutControl>
     </Grid>
 </UserControl>

@@ -589,7 +589,6 @@ C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\de\DevExpress.Xp
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
-C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Map.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\Time.baml
 C:\Users\afa\DevExpressTesten\DataContext\DataContext\obj\Debug\Views\SchedulerControl.baml
